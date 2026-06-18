@@ -1,0 +1,1 @@
+module go-concurrent-crawler\n\ngo 1.21\n

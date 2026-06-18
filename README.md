@@ -1,0 +1,1 @@
+# Go-Concurrent-Crawler\n\n## Overview\nEnterprise-grade concurrent crawler implementation in Go.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue4444/Go-Concurrent-Crawler.git\ncd Go-Concurrent-Crawler\n# Build instructions depend on the language\n```\n
